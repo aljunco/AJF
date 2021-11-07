@@ -1,11 +1,37 @@
 Escribe el nombre que caracteriza el conjunto de datos:
-Escribe el organismo que lo genero
+"Video Game Sales"
+
+Escribe el organismo que lo genero:
+"Kaggle.com" de "vgchartz.com."
+
 Incluye el encalce de internet de donde se pueden descargar en linea y envialo como una hoja de calculo junto con su informe correspondiente 
+"https://www.kaggle.com/gregorut/videogamesales"
+
 Describe el conjunto de datos. Que datos contiene?
+Este analisis son de los datos de ventas de más de 16.500 juegos. Este conjunto de datos contiene una lista de videojuegos con ventas superiores a 100.000 copias.
+
 Normalmente, los datos tienen un identificador que se incluye en el encabezado de la columna correspondiente. Que identificador no tiene calro su significad? Como podrias investigarlo?
+Todos los identifiacadores estan claros, 
+Clasificación: clasificación de las ventas generales
+Nombre: el nombre del juego
+Plataforma: plataforma del lanzamiento del juego (es decir, PC, PS4, etc.)
+Año: año de lanzamiento del juego
+-Género: género del juego
+-Editor: editor del juego
+-NA_Sales - Ventas en Norteamérica (en millones)
+-EU_Sales - Ventas en Europa (en millones)
+-JP_Sales - Ventas en Japón (en millones)
+-Other_Sales - Ventas en el resto del mundo (en millones)
+-Global_Sales: ventas totales en todo el mundo.
+
 -Cuales son algunas de las pregutnas que podrias responder con estos datos? Enumera al menos tres.
-1.
-2.
-3.
-Pregunta de investigacion
+1. La tendeia a la compra de video juegos
+2. Cual es el juego mas vendido hasta la fecha
+3. Que continente es que mas consume video juegos
+
+Pregunta de investigacion:
 Que stakeholder estaria interesado en las preguntas identificadas en el punto 6?
+-Compañías de videojugeos como Activision Blizzard, Electronic Arts (EA), Take-Two Interactive, y Zynga. 
+-Clientes interesados en comprar videojuegos
+-Inversionistas
+-Gobiernos
