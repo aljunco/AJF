@@ -1,0 +1,11 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+%ls datasets/
+read = pd.read_csv('datasets/antropometria-dataset.csv')
+plt.boxplot(read['peso'], whis=(0, 100))
+plt.plot(read['cintura'])
+plt.plot(read['peso'])
+plt.hist(read['cintura'])
+plt.hist(read['peso'])
+plt.scatter(read['peso'], df['cintura'])
